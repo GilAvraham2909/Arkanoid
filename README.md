@@ -9,8 +9,9 @@ This is an Arkanoid game witch contain 4 levels
 
 ## View:
 The game looks like:
+```python
 ![Image of the App](https://github.com/GilAvraham2909/Arkanoid/blob/master/myArkanoid.png)
-
+```
 ## Run:
 - open in planet a repository witch contain *all* the files and do the following:
 ```python
