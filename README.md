@@ -9,10 +9,11 @@ This is an Arkanoid game witch contain 4 levels
 
 ## Run
 - open in planet a repository witch contain *all* the files and do the following:
-
+`
   make compile
   make jar
   java -jar ass6game.jar
+`
 
 ## Links
 - My GitHub project https://github.com/GilAvraham2909/Arkanoid.git
